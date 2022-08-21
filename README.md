@@ -29,3 +29,8 @@ In this release:
  - Load existing todos from a saved file
  ...
  ---------------------------------------------------------------------------
+ 8/21/2022
+Todo App v0.1.0
+
++ Added a list to see created todos
++ Basic Border Boxes for clarity
