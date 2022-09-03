@@ -39,3 +39,24 @@ Todo App v0.1.0
 Todo App v0.1.0
 
 + Apply better code formatting
+----------------------------------------------------------------------------
+9/02/2022
+Todo App v0.2.0
+
++ Separate Add and List into components
++ Covert to writeable store
++ Add Remove functionality
++ Add ability to complete a todo
++ Display improvements
+    + New Todos show with red border
+    + Completed Todos show green border and has text strikethrough
+
+- Mobile support (Responsive)
+- Better Styling
+- Change the header title name
+- Save/Load Todos from file
+- Add CSS
+- Consider adding a check all / uncheck all
+...
+
+
